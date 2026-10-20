@@ -1,1 +1,0 @@
-../plotter/docs/journey.md
