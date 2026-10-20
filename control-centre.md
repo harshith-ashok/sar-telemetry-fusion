@@ -1,0 +1,1 @@
+../plotter/docs/control-centre.md
